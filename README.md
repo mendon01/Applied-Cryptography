@@ -1,1 +1,1 @@
-These are implementations of RSA and Diffie Helman algorithms in python.
+These are implementations of RSA and Diffie Hellman algorithms in python.
