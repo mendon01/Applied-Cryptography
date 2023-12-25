@@ -1,5 +1,3 @@
-These are implementations of RSA and Diffie Hellman algorithms in python.
-
 Developed a secure communication system in Python, implementing the Diffie-Hellman Key Exchange Algorithm for symmetric key generation and RSA encryption for secure data transmission.
 
 Key Features:
